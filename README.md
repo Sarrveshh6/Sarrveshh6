@@ -295,8 +295,9 @@ Lost-and-found ecosystem built specifically for educational institutions.
 # Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sarrveshh6/Sarrveshh6/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarrveshh6&theme=tokyo-night" />
+</p>
 
 </div>
 
