@@ -6,7 +6,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/BCA-Graduate_2026-6A11CB?style=for-the-badge)
+![](https://img.shields.io/badge/Graduate_2026-6A11CB?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-7.8-8E2DE2?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Varanasi,_UP-4A00E0?style=for-the-badge)
 
