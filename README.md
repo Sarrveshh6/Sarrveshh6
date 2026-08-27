@@ -220,7 +220,6 @@ Lost-and-found ecosystem built specifically for educational institutions.
 |-------------|----------|
 | Google Student Ambassador | Selected to represent student developer initiatives |
 | Freelance Development | Delivered production-ready client projects |
-| BCA Graduate | Completed Bachelor of Computer Applications |
 | AI & ML Enthusiast | Actively building intelligent systems |
 | SIH Participant | Worked on innovative problem-solving initiatives |
 
