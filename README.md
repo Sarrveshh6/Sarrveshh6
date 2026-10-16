@@ -77,11 +77,6 @@ Currently focused on expanding my AI engineering capabilities while building imp
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,azure" />
-</p>
 
 ---
 
@@ -140,7 +135,7 @@ An AI-assisted solution designed to help identify cattle diseases and recommend 
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>🚀 Nirbhaya – Women's Safety Platform</b></summary>
 
 ### Description
@@ -155,9 +150,9 @@ Safety-focused application aimed at enhancing emergency communication and assist
 | Security | Secure User Management |
 | Impact | Faster Emergency Reach |
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>🚀 Campus Compass</b></summary>
 
 ### Description
@@ -172,7 +167,7 @@ Lost-and-found ecosystem built specifically for educational institutions.
 | Security | Authentication Enabled |
 | Impact | Improved Student Experience |
 
-</details>
+</details> -->
 
 ---
 
@@ -223,39 +218,7 @@ Lost-and-found ecosystem built specifically for educational institutions.
 | AI & ML Enthusiast | Actively building intelligent systems |
 | SIH Participant | Worked on innovative problem-solving initiatives |
 
----
 
-# Certifications
-
-### Microsoft
-
-![](https://img.shields.io/badge/Microsoft-Certified-5E5DF0?style=for-the-badge&logo=microsoft)
-
-### Azure
-
-![](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure)
-
-### Google
-
-![](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](#)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](#)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](#)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
-
-</div>
-
----
 
 # GitHub Analytics
 
